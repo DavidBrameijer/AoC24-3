@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16167\\Desktop\\Practice Code\\AoC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210F930D-2314-4705-8676-4E8D053D1FD7}|AoC3\\AoC3.csproj|c:\\users\\16167\\desktop\\practice code\\aoc3\\aoc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210F930D-2314-4705-8676-4E8D053D1FD7}|AoC3\\AoC3.csproj|solutionrelative:aoc3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\16167\\Desktop\\Practice Code\\AoC3\\AoC3\\Program.cs",
+              "RelativeDocumentMoniker": "AoC3\\Program.cs",
+              "ToolTip": "C:\\Users\\16167\\Desktop\\Practice Code\\AoC3\\AoC3\\Program.cs",
+              "RelativeToolTip": "AoC3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:02:41.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
